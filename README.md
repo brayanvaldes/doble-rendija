@@ -50,11 +50,11 @@ Para ejecutar los notebooks, sigue estos pasos:
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/brayanvaldes/doble-rendija.git
    ```
 2. Accede al directorio del proyecto:
    ```sh
-   cd tu-repositorio
+   cd doble-rendija
    ```
 3. Instala las dependencias necesarias:
    ```sh
